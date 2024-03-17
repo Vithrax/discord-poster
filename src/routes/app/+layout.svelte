@@ -26,7 +26,7 @@
 	};
 </script>
 
-<Breadcrumb.Root class="px-4 py-1 m-2 w-fit bg-primary/15">
+<Breadcrumb.Root class="px-4 py-1 m-2 w-fit rounded-lg bg-primary/15">
 	<Breadcrumb.List>
 		{#each segments as href, index}
 			<Breadcrumb.Separator class="first:hidden">

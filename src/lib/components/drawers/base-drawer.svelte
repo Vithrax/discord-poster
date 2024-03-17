@@ -5,7 +5,7 @@
 
 <Drawer.Root>
 	<Drawer.Trigger><slot name="trigger" /></Drawer.Trigger>
-	<Drawer.Content>
+	<Drawer.Content class="px-4">
 		<Drawer.Header>
 			<Drawer.Title><slot name="title" /></Drawer.Title>
 			<Drawer.Description><slot name="description" /></Drawer.Description>

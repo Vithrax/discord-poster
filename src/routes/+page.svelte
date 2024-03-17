@@ -37,10 +37,10 @@
 	</section>
 
 	<footer
-		class="flex items-center justify-between border-t px-3 text-muted-foreground text-sm italic"
+		class="flex py-4 items-center justify-between border-t px-3 text-muted-foreground text-sm italic"
 	>
 		<div>
-			<div>2024 &copy; Adrian Gajdulewicz</div>
+			<div>&copy;2024 DPAG Labs</div>
 		</div>
 		<div>Github</div>
 	</footer>
